@@ -72,15 +72,15 @@ Simply execute the script in a Python environment:
 
 python todo_list.py
 
-# Tools Used
- .vs code
- .Pycharm ID
- .Atom Text editor
-
 # License
 
 This project is free to use and distribute.
 
+# Future Improvements
 
+✅ Add a save/load feature using a text or JSON file.
+✅ Implement a GUI version using Tkinter or PyQt.
+✅ Add a priority system for tasks.
+✅ Set due dates for tasks.
 
 
